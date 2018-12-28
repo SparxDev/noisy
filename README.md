@@ -3,7 +3,7 @@ A JavaScript library that makes it much easier to create sounds with a certain f
 
 # Documentation
 ## Getting started
-I know, I know, it's pretty obvious, but in order to use this wonderful library, you'll need to include the JavaScript file into your HTML document first. Luckily this isn't hard at all, you can either use the link to the Noisy JavaScript file or download the repository (or rather just the file) so that you can use this library offline.
+I know, I know, it's pretty obvious, but in order to use this wonderful library, you'll need to include the JavaScript file into your HTML document first. Luckily this isn't hard at all, you can either use the link to the [Noisy JavaScript file](https://sparxdev.github.io/noisy/noisy.js) or download [the repository](https://github.com/SparxDev/noisy) (or rather [just the file](https://sparxdev.github.io/noisy/noisy.js)) so that you can use this library offline.
 
 Use the link:
 ```html
