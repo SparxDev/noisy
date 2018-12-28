@@ -23,7 +23,7 @@ var noisy = new Noisy();
 
 Now that you have initialized the class, you can start the sound with ``noisy.start()`` or stop it with ``noisy.stop()``.
 
-After you have started the sound, you can listen to a never-ending peeping sound that has a frequency of 400 Hz. Pretty boring, huh? That's why you can also change the frequency, volume and even the wave type. The wave can either be ``sine``, ``square``, ``sawtooth`` or ``triangle``. Pretty cool, huh? The JavaScript code would then look like that:
+After you have started the sound, you can listen to a never-ending peeping sound that has a frequency of 400 Hz. Pretty boring, huh? That's why you can also change the frequency, volume and even the wave type. The wave can either be ``sine``, ``square``, ``sawtooth`` or ``triangle``. Pretty cool, huh? The JavaScript code would then look like this:
 ```js
 var noisy = new Noisy({
   frequency: '600',
